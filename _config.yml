@@ -2,13 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://tracyzhu.github.io
+title: World Line
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: zhufengxiang 
 simple_search: https://www.google.com/search
-description:
-
+description: Yet another blog of zhufengxiang
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
@@ -19,7 +18,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: minitracyzhu@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -69,8 +68,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+#twitter_user:
+#twitter_tweet_button: true
 
 # Google +1
 google_plus_one: false
